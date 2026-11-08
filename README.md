@@ -256,13 +256,3 @@ FARDEEN KABIR
 # 👨‍💻 SUPERVISED BY
 
 Dr FATEMA TUZ ZUHRA
-
----
-
-# 📄 Citation
-
-If you use this work for academic or educational purposes, please cite the project appropriately.
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
